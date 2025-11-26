@@ -1,4 +1,4 @@
-#6(A) Python OOP: Abstract Class & Method Example
+# 6(A) Python OOP: Abstract Class & Method Example
 
 ## AIM
 
